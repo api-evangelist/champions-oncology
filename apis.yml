@@ -1,8 +1,18 @@
 aid: champions-oncology
 name: Champions Oncology
-description: Champions Oncology is a company surfaced as a portfolio company of battery-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Champions Oncology (NASDAQ: CSBR) is a global preclinical and clinical
+  oncology contract research organization (CRO) supporting pharmaceutical and
+  biotech drug development from discovery through the clinic. It maintains a
+  living bank of more than 1,400 patient-derived tumor models and primary
+  hematological models, and offers proprietary in vivo and ex vivo platforms,
+  next-generation sequencing (WES/RNASeq), quantitative and phospho-proteomics,
+  flow cytometry, and other analytical assays. Its Lumin Bioinformatics platform
+  is an integrated, no-code analytics and visualization solution built on
+  precisely curated multi-omics oncology data assembled from over 12,000 cancer
+  patients, exposing gene networks, molecular signatures, target discovery, and
+  AI-driven predictive analytics to researchers. Champions was surfaced as a
+  portfolio company of Battery Ventures and added to the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/champions-oncology/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +20,65 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://www.championsoncology.com/hs-fs/hubfs/Champions_Logo_New_White.png
 tags:
 - Company
+- Oncology
+- Cancer Research
+- Bioinformatics
+- Contract Research Organization
+- Drug Development
+- Genomics
+- Proteomics
+- Life Sciences
+- Precision Medicine
+- Data Platform
+- Healthcare
 apis: []
+common:
+- type: DomainSecurity
+  url: security/champions-oncology-domain-security.yml
+- type: Website
+  url: https://www.championsoncology.com/
+- type: Documentation
+  url: https://lumin.championsoncology.com/lumin/docs/
+- type: GettingStarted
+  url: https://lumin.championsoncology.com/lumin/docs/gettingStarted.html
+- type: GitHubOrganization
+  url: https://github.com/Champions-Oncology
+- type: Blog
+  url: https://blog.championsoncology.com/blog
+- type: Support
+  url: https://www.championsoncology.com/contact-us
+- type: Login
+  url: https://lumin.championsoncology.com/login/
+- type: PrivacyPolicy
+  url: https://www.championsoncology.com/privacy-policy
+- type: TermsOfService
+  url: https://www.championsoncology.com/2023-legal-notice
+- type: LLMsTxt
+  url: llms/champions-oncology-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

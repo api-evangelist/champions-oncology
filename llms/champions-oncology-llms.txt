@@ -1,0 +1,29 @@
+# Champions Oncology
+
+> Champions Oncology (NASDAQ: CSBR) is a global preclinical and clinical oncology contract research organization (CRO) supporting pharmaceutical and biotech drug development from discovery through the clinic. It maintains a living bank of 1,400+ patient-derived tumor models and offers proprietary in vivo/ex vivo platforms, next-generation sequencing, quantitative and phospho-proteomics, flow cytometry, and the Lumin Bioinformatics analytics and visualization platform built on curated multi-omics data from 12,000+ cancer patients. Champions publishes no public developer REST API; its Lumin platform is a no-code web application and its GitHub org hosts research scripts and notebooks.
+
+## Company
+- [Champions Oncology website](https://www.championsoncology.com/): Oncology CRO services, assays, and data ecosystem.
+- [Company](https://www.championsoncology.com/company): About Champions Oncology.
+- [Contact / Support](https://www.championsoncology.com/contact-us): Get in touch with Champions Oncology.
+
+## Products
+- [Lumin Bioinformatics](https://lumin.bio/): Integrated no-code oncology analytics and visualization platform.
+- [Lumin Analytics](https://lumin.bio/analytics): Gene networks, molecular signatures, target discovery, and predictive analytics.
+- [Data Ecosystem](https://www.championsoncology.com/data-ecosystem): Multi-omics datasets from thousands of cancer patients.
+
+## Docs
+- [Lumin Documentation](https://lumin.championsoncology.com/lumin/docs/): Product documentation for the Lumin platform (no-code, no public API).
+- [Getting Started](https://lumin.championsoncology.com/lumin/docs/gettingStarted.html): Onboarding to the Lumin platform.
+- [About Our Data](https://lumin.championsoncology.com/lumin/docs/aboutOurData.html): Provenance and curation of the Lumin datasets.
+- [Data Licensing](https://lumin.championsoncology.com/lumin/docs/dataLicensing.html): Licensing terms for Lumin data.
+
+## Code
+- [GitHub organization](https://github.com/Champions-Oncology): R/Python bioinformatics scripts, Lumin Workspaces templates, and a bioinformatics bootcamp (research code, not an API SDK).
+
+## Resources
+- [Blog](https://blog.championsoncology.com/blog): Company blog.
+- [Press Releases](https://press.championsoncology.com): Company news and announcements.
+- [Lumin Login](https://lumin.championsoncology.com/login/): Sign in to the Lumin platform.
+- [Privacy Policy](https://www.championsoncology.com/privacy-policy)
+- [Legal Notice](https://www.championsoncology.com/2023-legal-notice)
