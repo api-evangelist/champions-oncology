@@ -44,7 +44,7 @@ accessModel:
   method: derived
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 image: https://www.championsoncology.com/hs-fs/hubfs/Champions_Logo_New_White.png
 tags:
 - Company
@@ -61,6 +61,8 @@ tags:
 - Healthcare
 apis: []
 common:
+- url: https://blog.championsoncology.com/blog/rss.xml
+  type: BlogRSS
 - type: DomainSecurity
   url: security/champions-oncology-domain-security.yml
 - type: Website
